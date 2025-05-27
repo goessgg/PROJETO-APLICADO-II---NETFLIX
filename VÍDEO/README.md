@@ -1,3 +1,6 @@
 ## VÍDEO DE APRESENTAÇÃO DO TRABALHO
 
-- Pasta odnde será disponibilizado um vídeo apresentando todo o Projeto Aplicado II.
+- Vídeo apresentando todo o Projeto Aplicado II.
+
+
+https://youtu.be/Gckmp3ovQ-k
